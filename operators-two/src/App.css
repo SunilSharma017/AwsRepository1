@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.head{
+  background-color:brown;
+  color:white;
+  width:100vw;
+  height:20vh;
+}
+.heading{
+  position :absolute;
+  margin-top:3vh;
+  margin-left:30vw;
+  font-size:25px;
+}
+.menu{
+  position:absolute;
+  margin-left:30vw;
+margin-top:13vh;
+display:flex;
+}
+
+a{
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+}
+.submenu{
+  margin-left:10vw;
+}
+
+img{
+  height:80vh;
+  width:100vw;
+}
